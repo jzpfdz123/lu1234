@@ -201,7 +201,7 @@ CHC家庭,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=86626503
 求索生活,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
 求索动物,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
 求索科学,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
-
+国家野生地理,http://211.72.65.236:8510/.m3u8
 
 港澳频道,#genre#
 
@@ -226,21 +226,26 @@ TVB明珠剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 
 中国台湾,#genre#
 
-东森新闻HD,http://litv.zapi.us.kg/?id=4gtv-4gtv152
-东森财经新闻,,http://litv.zapi.us.kg/?id=4gtv-4gtv153
-中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
+东森新闻HD,http://211.72.65.236:8540/.m3u8
+东森财经新闻,http://211.72.65.236:8546/.m3u8
+东森戏剧,http://211.72.65.236:8530/.m3u8
+中天新闻,http://211.72.65.236:8541/.m3u8
+年代新闻,http://211.72.65.236:8529/.m3u8
+三立新闻,http://211.72.65.236:8543/.m3u8
+年代新闻,http://211.72.65.236:8539/.m3u8
+壹新闻,http://211.72.65.236:8548/.m3u8
 非凡新闻HD,http://litv.zapi.us.kg/?id=4gtv-4gtv010
 民视新闻HD,http://litv.zapi.us.kg/?id=litv-ftv13
-中视新闻HD,http://litv.zapi.us.kg/?id=4gtv-4gtv074
-华视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv052
-寰宇新闻台,http://litv.zapi.us.kg/?id=litv-longturn14
+中视新闻HD,http://211.72.65.236:8541/.m3u8
+华视新闻,http://211.72.65.236:8503/.m3u8
+寰宇新闻台,http://211.72.65.236:8547/.m3u8
 闽镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
-TVBS新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
-TVBSHD,http://litv.zapi.us.kg/?id=4gtv-4gtv073
+TVBS新闻,http://211.72.65.236:8574/.m3u8
+TVBSHD,http://211.72.65.236:8575/.m3u8
 TVBS精彩台,http://litv.zapi.us.kg/?id=4gtv-4gtv067
-TVBS欢乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv068
+TVBS欢乐台,http://211.72.65.236:8532/.m3u8
 中视HD,http://litv.zapi.us.kg/?id=4gtv-4gtv040
-华视HD,http://litv.zapi.us.kg/?id=4gtv-4gtv041
+华视HD,http://211.72.65.236:8503/.m3u8
 台视HD,http://litv.zapi.us.kg/?id=4gtv-4gtv066
 台视财经HD,http://litv.zapi.us.kg/?id=4gtv-4gtv056
 民视HD,http://litv.zapi.us.kg/?id=4gtv-4gtv002
@@ -248,6 +253,17 @@ TVBS欢乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv068
 民视台湾台,http://litv.zapi.us.kg/?id=4gtv-4gtv001
 旅游,http://litv.zapi.us.kg/?id=litv-ftv07
 综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv004
+纬来电影,http://211.72.65.236:8579/.m3u8
+纬来体育,http://211.72.65.236:8585/.m3u8
+纬来日本,http://211.72.65.236:8537/.m3u8
+动物星球,http://211.72.65.236:8512/.m3u8
+海峡卫视,http://211.72.65.236:8570/.m3u8
+好莱坞电影,http://211.72.65.236:8554/.m3u8
+卫视电影,http://211.72.65.236:8578/.m3u8
+卫视中文,http://211.72.65.236:8523/.m3u8
+纬来,http://211.72.65.236:8518/.m3u8
+三立湾,http://211.72.65.236:8521/.m3u8
+东方37,http://211.72.65.236:8528/.m3u8
 中视菁采HD,http://litv.zapi.us.kg/?id=4gtv-4gtv064
 中视经典HD,留空
 公视戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv042
@@ -258,7 +274,39 @@ TVBS欢乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv068
 ELTA娱乐HD,http://litv.zapi.us.kg/?id=4gtv-4gtv070
 靖洋戏剧台,http://litv.zapi.us.kg/?id=4gtv-4gtv045
 靖洋卡通台,http://litv.zapi.us.kg/?id=4gtv-4gtv057
-
+CINEMAX,http://211.72.65.236:8559/.m3u8
+CINEMAX,http://211.72.65.236:8502/.m3u8
+博斯运动1,http://211.72.65.236:8587/.m3u8
+三立都会,http://211.72.65.236:8522/.m3u8
+人间卫视,http://211.72.65.236:8506/.m3u8
+中天娱乐,http://211.72.65.236:8527/.m3u8
+地理野生,http://211.72.65.236:8509/.m3u8
+龙华卡通,http://211.72.65.236:8517/.m3u8
+龙华偶像,http://211.72.65.236:8536/.m3u8
+龙华日韩,http://211.72.65.236:8535/.m3u8
+龙华戏剧,http://211.72.65.236:8534/.m3u8
+龙华电影,http://211.72.65.236:8581/.m3u8
+纬来育乐,http://211.72.65.236:8584/.m3u8
+GOODTV好消息,http://211.72.65.236:8508/.m3u8
+TCL,http://211.72.65.236:8511/.m3u8
+卫视西片,http://211.72.65.236:8583/.m3u8
+东森超视,http://211.72.65.236:8525/.m3u8
+东森幼幼,http://211.72.65.236:8515/.m3u8
+东森,http://211.72.65.236:8524/.m3u8
+纬来戏剧,http://211.72.65.236:8533/.m3u8
+非凡商业,http://211.72.65.236:8545/.m3u8
+八大戏剧,http://211.72.65.236:8531/.m3u8
+湖南卫视,http://211.72.65.236:8573/.m3u8
+八大,http://211.72.65.236:8520/.m3u8
+八大第一,http://211.72.65.236:8519/.m3u8
+亚洲旅游,http://211.72.65.236:8513/.m3u8
+STARWORD,http://211.72.65.236:8561/.m3u8
+民视,http://211.72.65.236:8504/.m3u8
+YAIWAN,http://211.72.65.236:8538/.m3u8
+公视,http://211.72.65.236:8505/.m3u8
+大爱,http://211.72.65.236:8507/.m3u8
+HBO,http://211.72.65.236:8580/.m3u8
+AXN,http://211.72.65.236:8582/.m3u8
 
 河南地方频道,#genre#
 
