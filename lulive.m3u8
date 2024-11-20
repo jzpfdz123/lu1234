@@ -1,114 +1,151 @@
 央视频道,#genre#
 
-[序号1]
 CCTV1-综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1-综合,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 
 ------
 
-[序号2]
 CCTV2-财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV2-财经,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000502
 
 ------
 
-[序号3]
 CCTV3-综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV3-综艺,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000003
 
 ------
 
-[序号4]
 CCTV4-国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV4-国际,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000503
 
 ------
 
-[序号5]
 CCTV5-体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5-体育,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000005
 
 ------
 
-[序号6]
 CCTV6-电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV6-电影,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000006
 
 ------
 
-[序号7]
 CCTV7-国防军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV7-国防军事,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000504
 
 ------
 
-[序号8]
 CCTV8-电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV8-电视剧,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000008
 
 ------
 
-[序号9]
 CCTV9-纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV9-纪录,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000505
 
 ------
 
-[序号10]
 CCTV10-科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV10-科教,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000506
 
 ------
 
-[序号11]
 CCTV11-戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 CCTV11-戏曲,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000508
 
 ------
 
-[序号12]
 CCTV12-社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV12-社会与法,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000509
 
 ------
 
-[序号13]
 CCTV13-新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV13-新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 
 ------
 
-[序号14]
 CCTV14-少儿,http://222.141.132.58:8888/rtp/225.1.4.80:1109
 
 ------
 
-[序号15]
 CCTV15-音乐,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000512
 CCTV15-音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 
 ------
 
-[序号16]
 CCTV16-奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV16-奥林匹克,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000016
 
 ------
-
-[序号17]
 
 CCTV17-农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV17-农业农村,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000513
 
 ------
 
-[序号18]
 CCTV5+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 
 ------
 
-[序号19]
 CCTV4K-超高清,http://43217878.xyz:5566/rtp/239.16.20.216:12160
+
+<------------------------------------------------------->
+
+本地频道,#genre#
+
+导视,http://43217878.xyz:5566/rtp/239.16.10.218:2000
+4K试验,http://43217878.xyz:5566/rtp/239.16.20.199:11990
+河南卫视,http://43217878.xyz:5566/rtp/239.16.20.21:10210
+河南卫视,http://live.nctv.top/6688/hntv.php?id=hnws
+------
+都市频道,http://43217878.xyz:5566/rtp/239.16.20.164:11640
+都市频道,http://live.nctv.top/6688/hntv.php?id=hnds
+------
+民生频道,http://43217878.xyz:5566/rtp/239.16.20.165:11650
+民生频道,http://live.nctv.top/6688/hntv.php?id=hnms
+------
+法治频道,http://43217878.xyz:5566/rtp/239.16.20.166:11660
+------
+电视剧频道,http://43217878.xyz:5566/rtp/239.16.20.167:11670
+电视剧频道,http://live.nctv.top/6688/hntv.php?id=hndsj
+------
+新闻频道,http://43217878.xyz:5566/rtp/239.16.20.168:11680
+新闻频道,http://live.nctv.top/6688/hntv.php?id=hnxw
+------
+公共频道,http://43217878.xyz:5566/rtp/239.16.20.170:11700
+公共频道,http://live.nctv.top/6688/hntv.php?id=hngg
+------
+梨园频道,http://live.nctv.top/6688/hntv.php?id=hnly
+梨园频道,http://1.194.250.157/tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=239b0cfe80129c43b6063d647a396f07&wsTime=1731351924&wsSession=24a56fe9e94e606df7ff6e9f-173133780129498&wsIPSercert=c21eae4690ca6eedda9485c208a83584&wsiphost=local&wsBindIP=1
+------
+文物宝库,http://live.nctv.top/6688/hntv.php?id=wwbk
+收藏天下,http://43217878.xyz:5566/rtp/239.16.20.172:11720
+武术世界,http://live.nctv.top/6688/hntv.php?id=wspd
+中华功夫,http://43217878.xyz:5566/rtp/239.16.20.173:11730
+乡村频道,http://43217878.xyz:5566/rtp/239.16.20.195:11950
+国际频道,http://43217878.xyz:5566/rtp/239.16.20.196:11960
+调解剧场,http://43217878.xyz:5566/rtp/239.16.20.197:11970
+移动电视,http://43217878.xyz:5566/rtp/239.16.20.204:12040
+河南戏曲,http://43217878.xyz:5566/rtp/239.16.10.148:2000
+河南戏曲,http://115.60.241.249:2000/rtp/225.1.4.206:1254
+移动戏曲,http://43217878.xyz:5566/rtp/239.16.20.120:11200
+晴彩中原,http://43217878.xyz:5566/rtp/239.16.20.122:11220
+晴彩中原,http://live.nctv.top/6688/hntv.php?id=jczy
+象世界,http://1.194.250.158/tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=0f50f90ad63d60636211d3c3dcfedd30&wsTime=1731351924&wsSession=249ecdef1af3f625c5b8cf52-173133779499337&wsIPSercert=c21eae4690ca6eedda9485c208a83584&wsiphost=local&wsBindIP=1
+象世界,http://live.nctv.top/6688/hntv.php?id=xsj
+国学频道,http://live.nctv.top/6688/hntv.php?id=gxpd
+欢腾购物,http://43217878.xyz:5566/rtp/239.16.20.169:11690
+郑州新闻综合,http://43217878.xyz:5566/rtp/239.16.10.154:2000
+郑州商都频道,http://43217878.xyz:5566/rtp/239.16.10.155:2000
+郑州文体频道,http://43217878.xyz:5566/rtp/239.16.10.156:2000
+郑州影视戏曲,http://43217878.xyz:5566/rtp/239.16.10.157:2000
+郑州妇女儿童,http://43217878.xyz:5566/rtp/239.16.10.158:2000
+郑州都市生活,http://43217878.xyz:5566/rtp/239.16.10.159:2000
+焦作综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?zhend
+焦作公共频道,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
+焦作教育频道,http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8?zhend
+睛彩焦作频道,http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8?zhend
 
 <------------------------------------------------------->
 
@@ -211,62 +248,7 @@ CCTV4K-超高清,http://43217878.xyz:5566/rtp/239.16.20.216:12160
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
 
-
-本地频道,#genre#
-
-导视,http://43217878.xyz:5566/rtp/239.16.10.218:2000
-4K试验,http://43217878.xyz:5566/rtp/239.16.20.199:11990
-河南卫视,http://43217878.xyz:5566/rtp/239.16.20.21:10210
-河南卫视,http://live.nctv.top/6688/hntv.php?id=hnws
-------
-都市频道,http://43217878.xyz:5566/rtp/239.16.20.164:11640
-都市频道,http://live.nctv.top/6688/hntv.php?id=hnds
-------
-民生频道,http://43217878.xyz:5566/rtp/239.16.20.165:11650
-民生频道,http://live.nctv.top/6688/hntv.php?id=hnms
-------
-法治频道,http://43217878.xyz:5566/rtp/239.16.20.166:11660
-------
-电视剧频道,http://43217878.xyz:5566/rtp/239.16.20.167:11670
-电视剧频道,http://live.nctv.top/6688/hntv.php?id=hndsj
-------
-新闻频道,http://43217878.xyz:5566/rtp/239.16.20.168:11680
-新闻频道,http://live.nctv.top/6688/hntv.php?id=hnxw
-------
-公共频道,http://43217878.xyz:5566/rtp/239.16.20.170:11700
-公共频道,http://live.nctv.top/6688/hntv.php?id=hngg
-------
-梨园频道,http://live.nctv.top/6688/hntv.php?id=hnly
-梨园频道,http://1.194.250.157/tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=239b0cfe80129c43b6063d647a396f07&wsTime=1731351924&wsSession=24a56fe9e94e606df7ff6e9f-173133780129498&wsIPSercert=c21eae4690ca6eedda9485c208a83584&wsiphost=local&wsBindIP=1
-------
-文物宝库,http://live.nctv.top/6688/hntv.php?id=wwbk
-收藏天下,http://43217878.xyz:5566/rtp/239.16.20.172:11720
-武术世界,http://live.nctv.top/6688/hntv.php?id=wspd
-中华功夫,http://43217878.xyz:5566/rtp/239.16.20.173:11730
-乡村频道,http://43217878.xyz:5566/rtp/239.16.20.195:11950
-国际频道,http://43217878.xyz:5566/rtp/239.16.20.196:11960
-调解剧场,http://43217878.xyz:5566/rtp/239.16.20.197:11970
-移动电视,http://43217878.xyz:5566/rtp/239.16.20.204:12040
-河南戏曲,http://43217878.xyz:5566/rtp/239.16.10.148:2000
-河南戏曲,http://115.60.241.249:2000/rtp/225.1.4.206:1254
-移动戏曲,http://43217878.xyz:5566/rtp/239.16.20.120:11200
-晴彩中原,http://43217878.xyz:5566/rtp/239.16.20.122:11220
-晴彩中原,http://live.nctv.top/6688/hntv.php?id=jczy
-象世界,http://1.194.250.158/tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=0f50f90ad63d60636211d3c3dcfedd30&wsTime=1731351924&wsSession=249ecdef1af3f625c5b8cf52-173133779499337&wsIPSercert=c21eae4690ca6eedda9485c208a83584&wsiphost=local&wsBindIP=1
-象世界,http://live.nctv.top/6688/hntv.php?id=xsj
-国学频道,http://live.nctv.top/6688/hntv.php?id=gxpd
-欢腾购物,http://43217878.xyz:5566/rtp/239.16.20.169:11690
-郑州新闻综合,http://43217878.xyz:5566/rtp/239.16.10.154:2000
-郑州商都频道,http://43217878.xyz:5566/rtp/239.16.10.155:2000
-郑州文体频道,http://43217878.xyz:5566/rtp/239.16.10.156:2000
-郑州影视戏曲,http://43217878.xyz:5566/rtp/239.16.10.157:2000
-郑州妇女儿童,http://43217878.xyz:5566/rtp/239.16.10.158:2000
-郑州都市生活,http://43217878.xyz:5566/rtp/239.16.10.159:2000
-焦作综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?zhend
-焦作公共频道,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
-焦作教育频道,http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8?zhend
-睛彩焦作频道,http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8?zhend
-
+<------------------------------------------------------->
 
 数字频道,#genre#
 
@@ -301,6 +283,7 @@ TVB亚洲剧集,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 TVB明珠剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 
+<------------------------------------------------------->
 
 中国台湾,#genre#
 
@@ -386,6 +369,8 @@ YAIWAN,http://211.72.65.236:8538/.m3u8
 HBO,http://211.72.65.236:8580/.m3u8
 AXN,http://211.72.65.236:8582/.m3u8
 
+<------------------------------------------------------->
+
 河南地方频道,#genre#
 
 句容新闻综合,http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8?zjiangsd
@@ -421,6 +406,7 @@ AXN,http://211.72.65.236:8582/.m3u8
 郸城新闻综合,http://live.dxhmt.cn:9081/tv/11625-1.m3u8
 项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
 
+<------------------------------------------------------->
 
 精彩轮播,#genre#
 
