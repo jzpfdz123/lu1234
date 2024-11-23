@@ -94,6 +94,13 @@ CCTV4K-超高清,http://43217878.xyz:5566/rtp/239.16.20.216:12160
 
 本地频道,#genre#
 
+移动电视,http://43217878.xyz:5566/rtp/239.16.20.204:12040
+教育一台,http://suntao.asia:18888/udp/239.21.2.7:5002
+教育二台,http://suntao.asia:18888/udp/239.21.2.8:5002
+教育四台,http://suntao.asia:18888/udp/239.21.2.129:5002
+教育四台,http://suntao.asia:18888/udp/239.21.1.222:5002
+焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
+焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
 导视,http://43217878.xyz:5566/rtp/239.16.10.218:2000
 4K试验,http://43217878.xyz:5566/rtp/239.16.20.199:11990
 河南卫视,http://43217878.xyz:5566/rtp/239.16.20.21:10210
@@ -113,9 +120,13 @@ CCTV4K-超高清,http://43217878.xyz:5566/rtp/239.16.20.216:12160
 新闻频道,http://43217878.xyz:5566/rtp/239.16.20.168:11680
 新闻频道,http://live.nctv.top/6688/hntv.php?id=hnxw
 ------
+欢腾购物,http://43217878.xyz:5566/rtp/239.16.20.169:11690
+------
 公共频道,http://43217878.xyz:5566/rtp/239.16.20.170:11700
 公共频道,http://live.nctv.top/6688/hntv.php?id=hngg
 ------
+乡村频道,http://43217878.xyz:5566/rtp/239.16.20.195:11950
+国际频道,http://43217878.xyz:5566/rtp/239.16.20.196:11960
 梨园频道,http://live.nctv.top/6688/hntv.php?id=hnly
 梨园频道,http://1.194.250.157/tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=239b0cfe80129c43b6063d647a396f07&wsTime=1731351924&wsSession=24a56fe9e94e606df7ff6e9f-173133780129498&wsIPSercert=c21eae4690ca6eedda9485c208a83584&wsiphost=local&wsBindIP=1
 ------
@@ -123,30 +134,23 @@ CCTV4K-超高清,http://43217878.xyz:5566/rtp/239.16.20.216:12160
 收藏天下,http://43217878.xyz:5566/rtp/239.16.20.172:11720
 武术世界,http://live.nctv.top/6688/hntv.php?id=wspd
 中华功夫,http://43217878.xyz:5566/rtp/239.16.20.173:11730
-乡村频道,http://43217878.xyz:5566/rtp/239.16.20.195:11950
-国际频道,http://43217878.xyz:5566/rtp/239.16.20.196:11960
+
+
 调解剧场,http://43217878.xyz:5566/rtp/239.16.20.197:11970
-移动电视,http://43217878.xyz:5566/rtp/239.16.20.204:12040
 河南戏曲,http://43217878.xyz:5566/rtp/239.16.10.148:2000
 河南戏曲,http://115.60.241.249:2000/rtp/225.1.4.206:1254
 移动戏曲,http://43217878.xyz:5566/rtp/239.16.20.120:11200
 晴彩中原,http://43217878.xyz:5566/rtp/239.16.20.122:11220
 晴彩中原,http://live.nctv.top/6688/hntv.php?id=jczy
-象世界,http://1.194.250.158/tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=0f50f90ad63d60636211d3c3dcfedd30&wsTime=1731351924&wsSession=249ecdef1af3f625c5b8cf52-173133779499337&wsIPSercert=c21eae4690ca6eedda9485c208a83584&wsiphost=local&wsBindIP=1
-象世界,http://live.nctv.top/6688/hntv.php?id=xsj
 国学频道,http://live.nctv.top/6688/hntv.php?id=gxpd
-欢腾购物,http://43217878.xyz:5566/rtp/239.16.20.169:11690
 郑州新闻综合,http://43217878.xyz:5566/rtp/239.16.10.154:2000
 郑州商都频道,http://43217878.xyz:5566/rtp/239.16.10.155:2000
 郑州文体频道,http://43217878.xyz:5566/rtp/239.16.10.156:2000
 郑州影视戏曲,http://43217878.xyz:5566/rtp/239.16.10.157:2000
 郑州妇女儿童,http://43217878.xyz:5566/rtp/239.16.10.158:2000
 郑州都市生活,http://43217878.xyz:5566/rtp/239.16.10.159:2000
-焦作综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?zhend
-焦作公共频道,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
-焦作教育频道,http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8?zhend
-睛彩焦作频道,http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8?zhend
-
+象世界,http://live.nctv.top/6688/hntv.php?id=xsj
+象世界,http://1.194.250.158/tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=0f50f90ad63d60636211d3c3dcfedd30&wsTime=1731351924&wsSession=249ecdef1af3f625c5b8cf52-173133779499337&wsIPSercert=c21eae4690ca6eedda9485c208a83584&wsiphost=local&wsBindIP=1
 <------------------------------------------------------->
 
 卫视频道,#genre#
