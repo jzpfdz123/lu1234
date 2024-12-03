@@ -78,7 +78,7 @@
 
 移动电视,http://43217878.xyz:5566/rtp/239.16.20.204:12040
 
-教育一台,http://suntao.asia:18888/udp/239.21.2.7:5002
+教育一台,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000076/index.m3u8?IASHttpSessionId=
 
 调解剧场,http://43217878.xyz:5566/rtp/239.16.20.197:11970
 
@@ -86,11 +86,9 @@
 
 河南戏曲,http://115.60.241.249:2000/rtp/225.1.4.206:1254
 
-教育二台,http://suntao.asia:18888/udp/239.21.2.8:5002
+教育二台,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000077/index.m3u8?IASHttpSessionId=
 
-教育四台,http://suntao.asia:18888/udp/239.21.2.129:5002
-
-教育四台,http://suntao.asia:18888/udp/239.21.1.222:5002
+教育四台,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000666/index.m3u8?IASHttpSessionId=
 
 焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
 
