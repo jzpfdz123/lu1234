@@ -77,14 +77,14 @@
 
 21  CCTV-4 美洲,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000351/index.m3u8?IASHttpSessionId=
 
+22  CETV-1 综合教育,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000076/index.m3u8?IASHttpSessionId=
 22  CETV-1 综合教育,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
 22  CETV-1 综合教育,http://127.0.0.1:35456/itv/5000000002000002652.m3u8?cdn=bestzb
-22  CETV-1 综合教育,http://111.61.236.247:9081/hls/61/index.m3u8
 
-23  CETV-2 空中课堂,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
-23  CCTV-2 空中课堂,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?m3u8_level=2
+23  CETV-2 空中课堂,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000077/index.m3u8?IASHttpSessionId=
 
-24  CCTV-4 职业教育,http://127.0.0.1:35456/itv/5000000011000031126.m3u8?cdn=bestzb
+24  CETV-4 职业教育,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000666/index.m3u8?IASHttpSessionId=
+24  CETV-4 职业教育,http://127.0.0.1:35456/itv/5000000011000031126.m3u8?cdn=bestzb
 
 25  CCTV-世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 
