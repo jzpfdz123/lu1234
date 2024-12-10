@@ -129,7 +129,7 @@
 
 41  晴彩中原,http://live.nctv.top/6688/hntv.php?id=jczy
 
-42  河南戏曲,http://171.8.171.87:8800/udp/239.16.20.171:11710
+42  移动戏曲,http://171.14.54.214:6610/PLTV1/800/default.m3u8?IASHttpSessionId=RR15303620241210121755814161&m3u8_level=2&ispcode=6&ztecid=800
 
 43  文物宝库,http://live.nctv.top/6688/hntv.php?id=wwbk
 
@@ -139,6 +139,8 @@
 45  武术世界,http://live.nctv.top/6688/hntv.php?id=wspd
 
 46  国学频道,http://222.85.81.15:6060/PLTV2/3720/index.m3u8
+
+47  河南戏曲,http://171.8.171.87:8800/udp/239.16.20.171:11710
 
 中华功夫,http://43217878.xyz:5566/rtp/239.16.20.173:11730
 
